@@ -30,7 +30,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/Hackathon_Pobedy.git
+git clone https://github.com/batman565/Hackathon_Pobedy/
 cd Hackathon_Pobedy
 ```
 
